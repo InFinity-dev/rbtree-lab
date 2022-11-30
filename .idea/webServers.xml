@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a86026fc-aab8-4a39-bb19-c4906e82030c" name="Ubuntu 20.04_Krafton">
+        <fileTransfer rootFolder="/home/infinity" accessType="SFTP" host="10.10.18.49" port="22" sshConfigId="fb9ca720-187b-494b-99e4-3fbe9133d15e" sshConfig="infinity@10.10.18.49:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
