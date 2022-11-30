@@ -1,0 +1,4 @@
+# ninja log v5
+0	69	1669852301369322188	CMakeFiles/rbtree_lab.dir/src/driver.c.o	bad9108071e4228e
+0	126	1669852301426435530	CMakeFiles/rbtree_lab.dir/src/rbtree.c.o	e36d593dc19895d1
+1	183	1669852301482572588	CMakeFiles/rbtree_lab.dir/test/test-rbtree.c.o	4e1e8877014d0a5a
